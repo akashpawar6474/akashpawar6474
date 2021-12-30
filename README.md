@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akash Pawar
 - 👀 I’m interested in problem solving(DSA) & web development
-- 🌱 I’m currently learning system design
-- 💞️ I’m looking to collaborate on problems which give challenge and ensure learnings
+- 🌱 I’m wildly enthusiastic about system design
+- 💞️ I’m looking to collaborate on problems which will give challenge and ensure learnings
 - 📫 reach me at akashpawar6474@gmail.com
 
 <!---
