@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash Pawar
-- 👀 I’m interested in problem solving(DSA) & web development
+- 👀 I’m interested in problem solving(DSA) & backend development
 - 🌱 I’m wildly enthusiastic about system design and I do write Technical Blogs.
 - 💞️ I’m looking to collaborate on problems which will give challenge and ensure learnings.
 - 📫 reach me at akashpawar6474@gmail.com
